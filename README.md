@@ -18,7 +18,7 @@ Alert System: Get instant notifications for unusual activity or system failures 
 User Management: Admins can add, edit, and assign roles to building staff and tenants.
 
 Reports: Generate custom reports on system usage, faults, and maintenance records.
-
+![Image 1](big.jpg)
 
 
 
